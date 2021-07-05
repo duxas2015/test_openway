@@ -18,6 +18,7 @@
 * create_table.sql - скрипт pl/sql, создание структуры
 * test_openway.tst - тест для PL/SQL Developer 
 * пояснение_к_заданию.txt - это файл
+* install_openway.sql - скрипт установки
 
 Требования к схеме для установки и тестирования:
 * grant connect, resource, debug connect session to ...;
